@@ -75,7 +75,7 @@
   },
   "devDependencies": {
     "angular": "^1.6.4",
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "babel-eslint": "^4.1.6",
     "bowser": "^1.7.0",
     "browserify": "^13.3.0",
